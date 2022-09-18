@@ -24,7 +24,7 @@ function generateColors() {
 
 // Função para gerar sistema Hexadecimal + Cor aleatória
 function hexaColorCodigo() {
-    const characters = "123456789ABCDEF"
+    const characters = "123456789abcdef"
     const maxCharacters = 6
     let color = ""
 
