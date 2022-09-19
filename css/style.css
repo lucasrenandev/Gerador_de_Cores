@@ -41,7 +41,7 @@ h1 {
     justify-content: center;
 }
 
-.sectionContainer .box { /* classe BOX adicionada via javascript */
+.sectionContainer .box { /* classe BOX criada via javascript */
     width: 200px;
     height: 150px;
     display: flex;

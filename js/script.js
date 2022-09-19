@@ -1,10 +1,10 @@
-// Adicionando DIVS de forma dinâmica
+// Criando DIVS de forma dinâmica
 for(let i = 1; i <= 30; i ++) {
     const box = document.createElement("div")
     box.classList.add("box")
     document.querySelector("#sectionContainer").appendChild(box)
 }
-// Selecionando todas as DIVS adicionadas
+// Selecionando todas as DIVS criadas
 const colorsBox = document.querySelectorAll(".box")
 
 // Selecionando o botão 
